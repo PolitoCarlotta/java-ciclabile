@@ -3,7 +3,7 @@ import listaNumeri.Interi;
 public class App {
     public static void main(String[] args) throws Exception {
         
-        Interi i1 = new Interi();
+        Interi i1 = new Interi(4);
 
         Interi i2 = new Interi(new int[]{5, 9, 3, 7, 11});
 

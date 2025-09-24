@@ -18,8 +18,8 @@ public class Interi {
 
     }
 
-    public Interi(){
-        this.elencoNumeri = new int[5];
+    public Interi(int numeroInteri){
+        this.elencoNumeri = new int[numeroInteri];
         this.contatore = 0;
     }
 
